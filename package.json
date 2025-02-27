@@ -1,0 +1,5 @@
+{
+  "name": "qrcode-generator",
+  "private": true,
+  "workspaces": ["frontend", "backend"]
+}
